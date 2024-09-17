@@ -1,0 +1,5 @@
+﻿  Lab_03_3.cpp
+C:\Users\DellAs\source\repos\Lab_03_3\Lab_03_3.cpp(21,10): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\DellAs\source\repos\Lab_03_3\Lab_03_3.cpp(24,11): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\DellAs\source\repos\Lab_03_3\Lab_03_3.cpp(27,11): warning C4804: '<=': unsafe use of type 'bool' in operation
+  Lab_03_3.vcxproj -> C:\Users\DellAs\source\repos\Lab_03_3\x64\Debug\Lab_03_3.exe
